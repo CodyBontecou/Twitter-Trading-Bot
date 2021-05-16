@@ -13,8 +13,8 @@
     "start": "node ./index.js"
   },
   "dependencies": {
-    "crypto": "^1.0.1",
-    "request": "^2.88.2",
+    "dotenv": "^9.0.2",
+    "twilio": "^3.62.0",
     "twitter": "^1.7.1"
   }
 }
